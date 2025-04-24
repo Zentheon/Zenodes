@@ -1,0 +1,18 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+54aed615-aaf0-49af-8e21-de1704347613:Zenodes:Zenodes
+98473887-d797-4ea5-9d1d-7150fc457aa3:Zenodes/Compositing:Zenodes-Compositing
+d2823e6f-21e6-42a9-8572-55b4cd36ee8c:Zenodes/Compositing/Basic:Zenodes-Compositing-Basic
+0bafffee-5d11-478a-a7f2-aecca34be565:Zenodes/GeoNodes:Zenodes-GeoNodes
+0e63f106-6119-43d3-831b-8f72fdbeb5e7:Zenodes/GeoNodes/Animated:Zenodes-GeoNodes-Animated
+1ed73897-5df3-4c9c-9f05-34f51aa6234a:Zenodes/GeoNodes/Basic:Zenodes-GeoNodes-Basic
+8928c477-29b1-4fc2-aff9-ca9621595f50:Zenodes/Shaders:Zenodes-Shaders
+eb65e4ab-9961-464e-b420-2cd6ff587053:Zenodes/Shaders/Animated:Zenodes-Shaders-Animated
+f78da60c-fcc3-43f2-8c02-444b4d46c950:Zenodes/Shaders/Basic:Zenodes-Shaders-Basic
+be5dbd3a-13a2-4d30-bc57-46cf0edccc98:Zenodes/Shaders/Textures:Zenodes-Shaders-Textures
